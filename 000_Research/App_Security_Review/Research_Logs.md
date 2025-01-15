@@ -14,4 +14,6 @@ https://arxiv.org/abs/2311.17035
 Decoding the AI Pen
 https://arxiv.org/pdf/2403.05750
 
+Lessons from Red Teaming 100 GeAI Products
+https://arxiv.org/pdf/2501.07238
 
