@@ -14,6 +14,8 @@ https://arxiv.org/abs/2311.17035
 Decoding the AI Pen
 https://arxiv.org/pdf/2403.05750
 
-Lessons from Red Teaming 100 GeAI Products
+Lessons from Red Teaming 100 GenAI Products
 https://arxiv.org/pdf/2501.07238
 
+LLM Agents can autonomously exploit one-day vulnerabilities
+https://arxiv.org/abs/2404.08144
