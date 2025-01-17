@@ -19,3 +19,6 @@ https://arxiv.org/pdf/2501.07238
 
 LLM Agents can autonomously exploit one-day vulnerabilities
 https://arxiv.org/abs/2404.08144
+
+Lesson from Red Teaming 100 Gen AI Products
+https://arxiv.org/pdf/2501.07238
