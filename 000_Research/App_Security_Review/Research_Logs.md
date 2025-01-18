@@ -22,3 +22,6 @@ https://arxiv.org/abs/2404.08144
 
 Lesson from Red Teaming 100 Gen AI Products
 https://arxiv.org/pdf/2501.07238
+
+AI for DevSecOps: A Landscape and Future Opportunities
+https://arxiv.org/pdf/2404.04839
