@@ -25,3 +25,6 @@ https://arxiv.org/pdf/2501.07238
 
 AI for DevSecOps: A Landscape and Future Opportunities
 https://arxiv.org/pdf/2404.04839
+
+Challenges and Countermeasures
+https://arxiv.org/pdf/2402.12617
