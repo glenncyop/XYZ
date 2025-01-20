@@ -28,3 +28,6 @@ https://arxiv.org/pdf/2404.04839
 
 Challenges and Countermeasures
 https://arxiv.org/pdf/2402.12617
+
+Review of Generative AI Methods in Cybersecurity
+https://arxiv.org/html/2403.08701v2
