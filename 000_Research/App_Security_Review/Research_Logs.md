@@ -31,3 +31,6 @@ https://arxiv.org/pdf/2402.12617
 
 Review of Generative AI Methods in Cybersecurity
 https://arxiv.org/html/2403.08701v2
+
+Generative AI for Cyber Security
+https://ieeexplore.ieee.org/abstract/document/10491270
