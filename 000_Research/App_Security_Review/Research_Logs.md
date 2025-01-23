@@ -34,3 +34,6 @@ https://arxiv.org/html/2403.08701v2
 
 Generative AI for Cyber Security
 https://ieeexplore.ieee.org/abstract/document/10491270
+
+Guardians of Trust: Navigating Data Security in AIOps through Vendor Partnerships
+https://arxiv.org/abs/2312.06008
