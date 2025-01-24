@@ -37,3 +37,6 @@ https://ieeexplore.ieee.org/abstract/document/10491270
 
 Guardians of Trust: Navigating Data Security in AIOps through Vendor Partnerships
 https://arxiv.org/abs/2312.06008
+
+Security Threats in Agentic AI System
+https://arxiv.org/pdf/2410.14728
