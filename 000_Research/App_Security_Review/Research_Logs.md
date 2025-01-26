@@ -40,3 +40,6 @@ https://arxiv.org/abs/2312.06008
 
 Security Threats in Agentic AI System
 https://arxiv.org/pdf/2410.14728
+
+Securing the AI Frontier: Urgent Ethical and Regulatory Imperatives for AI-Driven Cybersecurity
+https://arxiv.org/abs/2501.10467
