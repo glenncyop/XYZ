@@ -46,3 +46,6 @@ https://arxiv.org/abs/2501.10467
 
 Navigating Ethical Challenges in Generative AI-Enhanced Research: The ETHICAL Framework for Responsible Generative AI Use
 https://arxiv.org/abs/2501.09021
+
+A Generative Security Application Engineering Curriculum
+https://arxiv.org/pdf/2501.10900
