@@ -49,3 +49,6 @@ https://arxiv.org/abs/2501.09021
 
 A Generative Security Application Engineering Curriculum
 https://arxiv.org/pdf/2501.10900
+
+Navigating Ethical Challenges in Generative AI-Enhanced Research
+https://arxiv.org/pdf/2501.09021
